@@ -1,6 +1,6 @@
 # Moorhuhn
 
-Unity Version: 2021.3.1f1 (LTS)
+Unity Version: 2021.3.2f1 (LTS)
 
 ## Moorhuhn Minigame target functions
 
